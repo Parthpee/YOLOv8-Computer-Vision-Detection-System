@@ -9,6 +9,9 @@ The framework achieved approximately 90% detection accuracy on custom datasets a
 <hr>
 <img width="433" height="512" alt="343104670-afb6ec94-5cde-4cee-974c-b7fff710f892" src="https://github.com/user-attachments/assets/a3d58ee1-21fa-4ab3-bcc2-419e24905b28" />
 
+---
+https://www.linkedin.com/posts/real-time-bakery-item-counting-on-thememryx-ugcPost-7462276654673977344-mx4J/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACmzc3UBrnD0SEslS6JnOGkASBbQC_Ni0Vc&utm_campaign=copy_link
+
 ## Core Capabilities
 
 - End-to-end YOLOv8 object detection lifecycle
